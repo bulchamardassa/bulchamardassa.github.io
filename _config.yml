@@ -1,3 +1,8 @@
 title: Bulcha Mardassa
 description: Graduate student | Security, Privacy, and AI
 theme: minima
+
+header_pages:
+  - research.md
+  - publications.md
+  - cv.md
