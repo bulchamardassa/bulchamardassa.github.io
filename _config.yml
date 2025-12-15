@@ -3,6 +3,7 @@ description: Graduate student | Security, Privacy, and AI
 theme: minima
 
 header_pages:
+  - index.md
   - research.md
   - publications.md
   - cv.md
