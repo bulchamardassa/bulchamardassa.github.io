@@ -1,6 +1,7 @@
 ---
-layout: home
+layout: page
 title: Home
+permalink: /
 ---
 
 Hi — I’m **Bulcha Mardassa**, a graduate student interested in **cybersecurity, privacy, and AI for security**.
